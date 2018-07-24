@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1524586679 source:c:\users\skand\desktop\c++\jeu\main.cpp
+	<iostream>
+	<game.h>
+	<string>
+	<fstream>
+	<time.h>
+
+1524481985 c:\users\skand\desktop\c++\jeu\include\game.h
+	"board.h"
+
+1524481985 c:\users\skand\desktop\c++\jeu\include\board.h
+
+1524585669 source:c:\users\skand\desktop\c++\jeu\src\board.cpp
+	<board.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1524481985 source:c:\users\skand\desktop\c++\jeu\src\game.cpp
+	<game.h>
+	<iostream>
+	<time.h>
+
+1524586679 source:c:\users\skand\desktop\ii1\c++\jeu\main.cpp
+	<iostream>
+	<game.h>
+	<string>
+	<fstream>
+	<time.h>
+
+1524481985 c:\users\skand\desktop\ii1\c++\jeu\include\game.h
+	"board.h"
+
+1524481985 c:\users\skand\desktop\ii1\c++\jeu\include\board.h
+
+1524585669 source:c:\users\skand\desktop\ii1\c++\jeu\src\board.cpp
+	<board.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1524481985 source:c:\users\skand\desktop\ii1\c++\jeu\src\game.cpp
+	<game.h>
+	<iostream>
+	<time.h>
+
